@@ -25,5 +25,4 @@ There are no known issues.
 
 ## Screenshots
 ![Some Error Occured](/screenshots/screenshotA.png?raw=true "")
-![Some Error Occured](/screenshots/screenshotB.png?raw=true "")
 ![Some Error Occured](/screenshots/screenshotC.png?raw=true "")
